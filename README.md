@@ -31,6 +31,6 @@ Here is the list of the variables and a brief description.
 | `country-year` | A composite that combines both the country and the year | object |
 | `HDI for year` | The Human Development Index (HDI) value corresponding to the given year | float |
 | `gdp_for_year ($)` | TThe Gross Domestic Product (GDP) of the country for the specified year | object |
-| `gdp_per_capita ($) | The Gross Domestic Product (GDP) per capita, calculated by dividing the total GDP by the population, providing a measure of economic output per person | float |
+| `gdp_per_capita ($)` | The Gross Domestic Product (GDP) per capita, calculated by dividing the total GDP by the population, providing a measure of economic output per person | float |
 | `generation` | A categorization based on average age grouping, representing the birth generations | object |
 | `Name` | The precise text used for who is being nominated | string |
